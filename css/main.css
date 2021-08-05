@@ -19,7 +19,7 @@ body {
 article header {
   padding-top: 5px;
   padding-bottom: 5px;
-  border-bottom: 1px #555 solid;
+  border-bottom: 2px #555 solid;
 }
 
 article h1 {
@@ -58,5 +58,5 @@ article ol {
 }
 
 article {
-  border-bottom: 1px #222 solid;
+  border-bottom: 2px #222 solid;
 }
