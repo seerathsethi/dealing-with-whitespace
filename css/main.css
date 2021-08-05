@@ -56,3 +56,7 @@ article {
   border-bottom: 1px #222 solid;
   margin-bottom: 20px;
 }
+
+article ol {
+  padding-left: 15px;
+}
