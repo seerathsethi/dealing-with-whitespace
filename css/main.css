@@ -10,22 +10,21 @@ html {
 body {
   font-family: "Crimson Text", serif;
   color: #222;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding: 1em;
   margin: 0;
   line-height: 1.3rem;
-  font-size: 1em;
+  font-size: 1rem;
 }
 
 article header {
   padding-top: 5px;
   padding-bottom: 5px;
-  border-bottom: 1px #555 solid;
+  border-bottom: 2px #555 solid;
 }
 
 article h1 {
+  font-size: 1.3px;
   font-size: 1.5rem;
-  line-height: 1em;
   font-style: normal;
   font-weight: normal;
   margin-bottom: 0;
@@ -38,29 +37,27 @@ article p {
 article header p {
   font-style: italic;
   font-weight: lighter;
-  margin: .25em 0 1em;
+  margin-top: 1.3px;
 }
 
 blockquote {
-  color: #999;
+  color: #555;
   font-size: 1.125rem;
   font-style: normal;
   margin: 2em 1.5em;
 }
 
 .quote {
-  color: #999;
+  color: #555;
   font-size: 1.125rem;
   font-weight: lighter;
   font-style: normal;
 }
 
 article {
-  padding-bottom: 10px;
-  border-bottom: 1px #222 solid;
-  margin-bottom: 20px;
+  border-bottom: 2px #999 solid;
 }
 
 article ol {
-  padding-left: 15px;
+  padding-left: 1em;
 }
