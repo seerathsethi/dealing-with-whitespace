@@ -31,6 +31,10 @@ article h1 {
   margin-bottom: 0;
 }
 
+article p {
+  margin: 1.125em 0;
+}
+
 article header p {
   font-style: italic;
   font-weight: lighter;
