@@ -19,7 +19,7 @@ body {
 article header {
   padding-top: 5px;
   padding-bottom: 5px;
-  border-bottom: 2px #555 solid;
+  border-bottom: 1px #555 solid;
 }
 
 article h1 {
@@ -53,10 +53,10 @@ blockquote {
   font-style: normal;
 }
 
-article {
-  border-bottom: 2px #999 solid;
-}
-
 article ol {
   padding-left: 1em;
+}
+
+article {
+  border-bottom: 1px #222 solid;
 }
