@@ -9,7 +9,7 @@ html {
 
 body {
   font-family: "Crimson Text", serif;
-  color : #222;
+  color: #222;
   padding-left: 1rem;
   padding-right: 1rem;
   margin: 0;
@@ -23,7 +23,7 @@ article header {
   border-bottom: 1px #555 solid;
 }
 
-article H1 {
+article h1 {
   font-size: 1.5rem;
   line-height: 1em;
   font-style: normal;
@@ -37,11 +37,11 @@ article p {
   margin: 1.25em 0 1em;
 }
 
-blockquote{
- color: #999;
- font-size: 1.125rem;
- font-style: normal;
- margin: 2em 1.5em;
+blockquote {
+  color: #999;
+  font-size: 1.125rem;
+  font-style: normal;
+  margin: 2em 1.5em;
 }
 
 .quote {
