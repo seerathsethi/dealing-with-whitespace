@@ -42,7 +42,7 @@ article header p {
   font-weight: lighter;
   margin-top: 1px;
   margin-bottom: 1em;
-  color:#222;
+  color: #222;
 }
 
 blockquote {
@@ -68,5 +68,6 @@ article ol {
 }
 
 article {
-  border-bottom: 1px #222 solid;
+  border-bottom: .75px #555 solid;
+  margin-bottom: 20.8px;
 }
