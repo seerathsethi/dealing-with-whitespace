@@ -4,6 +4,7 @@ html {
   padding-left: 1rem;
   padding-right: 1rem;
   line-height: 1.3;
+  font-family: "Crimson Text", serif;
 }
 
 *, *::before, *::after {
