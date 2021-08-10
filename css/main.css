@@ -28,17 +28,20 @@ article h1 {
   font-size: 1.5rem;
   font-style: normal;
   font-weight: normal;
-  margin-bottom: 0;
+  margin-bottom: 1px;
+  color:#222;
 }
 
 article p {
-  margin: 1.125em 0;
+  margin-top: 1px;
+  margin-bottom: 20.8px;
 }
 
 article header p {
   font-style: italic;
   font-weight: lighter;
   margin-top: 1.3px;
+  color:#222;
 }
 
 blockquote {
