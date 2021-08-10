@@ -29,7 +29,7 @@ article h1 {
   font-style: normal;
   font-weight: normal;
   color: #222;
-  margin-bottom: 0;
+  margin-bottom: 1px;
   line-height: 1em;
 }
 
@@ -45,7 +45,7 @@ article header p {
 }
 
 blockquote {
-  color: #999;
+  color: #555;
   font-size: 1.125rem;
   font-style: normal;
   margin-top: 10px;
