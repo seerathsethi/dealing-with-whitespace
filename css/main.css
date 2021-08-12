@@ -15,13 +15,13 @@ body {
   padding: 1em;
   margin: 0;
   line-height: 1.3rem;
-  font-size: 1em;
+  font-size: 1rem;
 }
 
 article header {
-  padding-top: 5px;
+  padding-top: 2px;
   padding-bottom: 5px;
-  border-bottom: 1px solid #555;
+  border-bottom: .5px solid #555;
 }
 
 article h1 {
@@ -29,27 +29,32 @@ article h1 {
   font-style: normal;
   font-weight: normal;
   color: #222;
-  margin-bottom: 1px;
-  line-height: 1em;
+  margin-bottom: 0;
+  line-height: 1.3;
 }
 
 article p {
-  margin-top: 1px;
-  margin-bottom: 20.8px;
+  color: #222;
+  border: 2px;
+  margin-top: 1.25rem;
+  margin-bottom: 1rem;
+  margin-right: 0;
+  margin-left: 0;
 }
 
 article header p {
   font-style: italic;
   color: #222;
-  margin: .25em 0 1em;
+  margin-top: 0;
+  font-size: 1rem;
 }
 
 blockquote {
   color: #555;
   font-size: 1.125rem;
   font-style: normal;
-  margin-top: 10px;
-  margin-bottom: 20.8px;
+  margin-top: 1.375rem;
+  margin-bottom: 1.375rem;
   line-height: 1.3;
   font-family: "Crimson Text", serif;
 }
@@ -59,16 +64,16 @@ blockquote {
   font-size: 1.125rem;
   font-style: normal;
   line-height: 1.3;
-  margin-left: -5px;
   font-family: "Crimson Text", serif;
 }
 
 article {
-  border-bottom: .75px #555 solid;
-  margin-bottom: 20px;
-  padding-bottom: 10px;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  line-height: 1.3;
 }
 
 article ol {
-  padding-left: 15px;
+  padding-left: 1em;
+  color: #222;
 }
