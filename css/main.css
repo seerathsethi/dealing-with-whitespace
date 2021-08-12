@@ -24,6 +24,10 @@ article header {
   border-bottom: .5px solid #555;
 }
 
+article:last-child {
+  border-bottom: 1px solid #222;
+}
+
 article h1 {
   font-size: 1.5rem;
   font-style: normal;
