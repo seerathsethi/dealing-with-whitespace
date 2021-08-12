@@ -19,8 +19,8 @@ body {
 }
 
 article header {
-  padding-top: 1px;
-  padding-bottom: 3px;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   border-bottom: .5px solid #555;
 }
 
@@ -41,7 +41,7 @@ article p {
   color: #222;
   border: 2px;
   margin-top: 1.25rem;
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
   margin-right: 0;
   margin-left: 0;
 }
@@ -73,11 +73,11 @@ blockquote {
 
 article {
   margin-bottom: .25rem;
-  margin-left: .5rem;
+  margin-left: .25rem;
   line-height: 1.3;
 }
 
 article ol {
-  padding-left: 1em;
+  padding-left: .75rem;
   color: #222;
 }
