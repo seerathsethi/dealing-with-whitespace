@@ -19,8 +19,8 @@ body {
 }
 
 article header {
-  padding-top: 2px;
-  padding-bottom: 5px;
+  padding-top: 1px;
+  padding-bottom: 3px;
   border-bottom: .5px solid #555;
 }
 
@@ -72,8 +72,8 @@ blockquote {
 }
 
 article {
-  margin-bottom: .75rem;
-  margin-left: .25rem;
+  margin-bottom: .25rem;
+  margin-left: .5rem;
   line-height: 1.3;
 }
 
