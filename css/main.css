@@ -44,19 +44,18 @@ article header p {
 }
 
 blockquote {
-  margin-top:1.1rem;
+  margin-top: 1.1rem;
   margin-bottom: 1.12rem;
 }
-blockquote p{
-    color: #555;
-    font-size: 1.125rem;
+blockquote p {
+  color: #555;
+  font-size: 1.125rem;
 }
 
 .quote {
   color: #999;
   font-size: 1.125rem;
 }
-
 
 article ol {
   padding-left: .75rem;
